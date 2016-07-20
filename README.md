@@ -55,4 +55,4 @@ again right click on project and then choose **team** and then click on **Push B
 and that's it.you pushed your project on gitLab :))
 ![10](https://github.com/sinadarvi/Git-to-gitLab/blob/master/10.png)
 
-Come and [visit](www.r2t.ir) our site :) Have Good Day ;)
+Come and [visit](http://www.r2t.ir/) our site :) Have Good Day ;)
