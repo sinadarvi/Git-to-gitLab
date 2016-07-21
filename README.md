@@ -29,11 +29,11 @@ Now in the Git window, click on <kbd>Clone a Git repository</kbd>.
 ![4](https://github.com/sinadarvi/Git-to-gitLab/blob/master/4.png)
 after that you should copy `Git repository` from GitLab and then fill this just like that. (you should set HTTPS Username and Password in Gitlab and pass them to here)
 ![5](https://github.com/sinadarvi/Git-to-gitLab/blob/master/5.png)
-Type your username and password
-Choose "Store in Secure Store"
-Click Next, and then Next again 
-there you just set **Directory** for destination 
-after that you click on <kbd>Finish</kbd>
+Type your username and password.
+Choose "Store in Secure Store".
+Click Next, and then Next again.
+there you just set **Directory** for destination. 
+after that you click on <kbd>Finish</kbd>.
 
 so far we have repo with no head.
 
