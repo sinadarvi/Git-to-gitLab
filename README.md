@@ -14,9 +14,9 @@ you just have to click <kbd>Sign up</kbd> button and then sign in with your **Gi
 
 2 - Make Empty Project in GitLab 
 -------------
-just like below pic, click on  :
+just like below pic, click on <kbd>New Project</kbd>:
 ![2](https://github.com/sinadarvi/Git-to-gitLab/blob/master/2.png)
-after that , you will see page like below image and complete it with Appropriate Answer.
+after that , you will see a page like this image and complete it with Appropriate Answers.
 ![3](https://github.com/sinadarvi/Git-to-gitLab/blob/master/3.png)
 So far, it was so easy. Lets go to Eclipse.
 
