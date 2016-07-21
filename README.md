@@ -10,7 +10,7 @@ Cloning your project to a **Git repository** is a nice way to manage and have Hi
 **GitLab** is one of *Git Repositories* that have one feature that you will like is that you can Create Personal project there **for free** :D 
 if you go to [GitLab](www.gitlab.com) you will see page like this :
 ![1](https://github.com/sinadarvi/Git-to-gitLab/blob/master/1.png)
-you just have to click <kbd>Sign up</kbd> button and then sign in with your **Github** Account and then you will see a page like that.
+you just have to click <kbd>Sign up</kbd> button and then sign in with your **Github** Account.
 
 2 - Make Empty Project in GitLab 
 -------------
