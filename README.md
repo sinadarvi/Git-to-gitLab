@@ -2,12 +2,12 @@
 Git From Eclipse To GitLab
 
 
-Cloning your project to a **Git repository** is a nice way to manage and have History from your project.i don't wan't to tel about git and git repos because there are Enough Docs telling about. So let's go to Main Course  :)) 
+Cloning your project to a **Git repository** is a nice way to manage and have History from your project.i don't wan't to tell about git and git repos because there are Enough Docs telling about. So let's go to Main Course  :)) 
 
 ----------
 1 - Sign up Into GitLab
 -------------
-**GitLab** is one of *Git Repositories* that one of the feature that you will like is that you can Create Personal project there **for free** :D 
+**GitLab** is one of *Git Repositories* that haev one feature that you will like is that you can Create Personal project there **for free** :D 
 if you go to [GitLab](www.gitlab.com) you will see page like this :
 ![1](https://github.com/sinadarvi/Git-to-gitLab/blob/master/1.png)
 you just have to click <kbd>Sign up</kbd> button and then sign in with your **Github** Account and then you will see a page like that.
