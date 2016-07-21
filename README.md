@@ -23,7 +23,7 @@ So far, it was so easy. Lets go to Eclipse.
 3 - Clone GIT Repository
 -------------
 here we assume that we have an Existing Project.
-Go to Window --> Show View --> Other
+Go to Window --> Show View --> Other.
 Click on Git --> Git Repositories  
 Now in the Git window, click on <kbd>Clone a Git repository</kbd>.
 ![4](https://github.com/sinadarvi/Git-to-gitLab/blob/master/4.png)
