@@ -1,4 +1,4 @@
-# Git-to-gitLab
+# Git-to-GitLab
 Git From Eclipse To GitLab
 
 
