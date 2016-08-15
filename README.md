@@ -2,7 +2,7 @@
 Git From Eclipse To GitLab
 
 
-Cloning your project to a **Git repository** is a nice way to manage and have History from your project.i don't wan't to tell about git and git repos because there are Enough Docs telling about. So let's go to Main Course  :)) 
+Cloning your project to a **Git repository** is a nice way to manage and Save History of your project.
 
 ----------
 1 - Sign up Into GitLab
